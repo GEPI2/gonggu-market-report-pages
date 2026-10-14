@@ -1,0 +1,53 @@
+{
+  "retrieved_date": "2026-10-14",
+  "images": [
+    {
+      "file": "market-storefront.jpg",
+      "brand": "우리동네국민상회",
+      "source_page": "https://ourvillageunity.com/",
+      "image_url": "https://ourvillageunity.com/assets/img/franchise/interior-figure06.jpg",
+      "purpose": "매장 외관·생활권 입지 사례",
+      "note": "우리동네국민상회 공식 홈페이지의 매장 외관. 회룡역 후보점포 사진이 아님.",
+      "width": 820,
+      "height": 493,
+      "bytes": 456151,
+      "format": "jpeg",
+      "retrieved_date": "2026-10-14",
+      "visually_verified": true,
+      "modifications": "없음. 공식 원본 그대로 저장.",
+      "rights_note": "공식 사이트 게시 이미지. 조사 발표 참고용이며 외부 재배포 권리는 별도 확인."
+    },
+    {
+      "file": "fruit-display.jpg",
+      "brand": "우리동네국민상회",
+      "source_page": "https://ourvillageunity.com/",
+      "image_url": "https://ourvillageunity.com/assets/img/franchise/interior-figure04.jpg",
+      "purpose": "상품 구성·신선식품 상시판매",
+      "note": "실제 매장 가격표가 보이며 조사 현재 판매가격을 뜻하지 않음.",
+      "width": 820,
+      "height": 493,
+      "bytes": 557511,
+      "format": "jpeg",
+      "retrieved_date": "2026-10-14",
+      "visually_verified": true,
+      "modifications": "없음. 공식 원본 그대로 저장.",
+      "rights_note": "공식 사이트 게시 이미지. 조사 발표 참고용이며 외부 재배포 권리는 별도 확인."
+    },
+    {
+      "file": "warehouse.jpg",
+      "brand": "우리동네국민상회",
+      "source_page": "https://ourvillageunity.com/",
+      "image_url": "https://ourvillageunity.com/assets/img/franchise/direct-fresh-bg01.jpg?260812",
+      "purpose": "물류·재고·콜드체인 설명",
+      "note": "공식 홈페이지 직영 물류센터 소개에 사용된 창고 사진. 온도관리 성능을 검증한 자료가 아님.",
+      "width": 800,
+      "height": 1250,
+      "bytes": 931069,
+      "format": "jpeg",
+      "retrieved_date": "2026-10-14",
+      "visually_verified": true,
+      "modifications": "없음. 공식 원본 그대로 저장.",
+      "rights_note": "공식 사이트 게시 이미지. 조사 발표 참고용이며 외부 재배포 권리는 별도 확인."
+    }
+  ]
+}
